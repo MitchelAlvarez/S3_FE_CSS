@@ -126,7 +126,7 @@ li:hover{
 
 #scheduleTable{
     margin-top: 30px;
-    width: 100%;
+    width: 110%;
     display: flex;
     flex-direction: row;
     background-color: rgba(255, 255, 255, 0.9);
@@ -136,6 +136,7 @@ li:hover{
 }
 #buttonSchedule{
     flex: 20%;
+    margin-right: 5px;
 }
 .inputTable{
     display: flex;
@@ -149,6 +150,14 @@ li:hover{
     font-family: Century Gothic;
     color: #68778f;
     font-size: 1.2rem;
+}
+.inputVal{
+    color: #1f3e72;
+    font-family: "Poppins", sans-serif;
+    font-size: 1.1rem;
+    width: 150px;
+    font-weight: bolder;
+
 }
 table {
     width: 90%;
@@ -339,7 +348,7 @@ table {
     background-color: rgb(228, 233, 255);
   }
   .accordion>p{
-      margin-left: 15px;
+      margin-left: 10px;
       margin-top: 10px;
       font-family: "Poppins", sans-serif;
       color: #224174;
