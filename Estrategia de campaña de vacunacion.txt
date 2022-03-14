@@ -1,0 +1,34 @@
+Estrategia de mercadotecnia
+
+Television:
+	Anuncios sobre:
+		centros de vacunacion
+		Numero de infectados
+		infomacionde las vacunas
+	Medicos capacitados en programas populares que hablen sobre el tema y la importacia de vacunarse
+	
+Facebook:
+	Campaña de un mes
+	zona: Jalisco
+	edad: 18 +
+	Contenido:
+		Informacion sobre covid (efectos)
+		Informacion sobre las vacunas(que hace cada una)
+		Centros donde pueden ir a vacunarse
+		Numero de infectados
+		Numero de muertes con vacuna y sin vacuna
+		
+		
+Instagram:
+	contenido cada 3er dia
+	Datos interesantes sobre las vacunas
+	Efectos de covid
+	Numero de infectados
+	Numero de muertes con vacuna y sin vacuna
+	
+Tiktok
+	Colavoracion con figuras publicas del medio(medicos),
+	que hablen sobre los temas mencionados anterior mente pero con sus palabras
+	
+Todos los link llevaran a la pagina principal de vacunacion
+	
